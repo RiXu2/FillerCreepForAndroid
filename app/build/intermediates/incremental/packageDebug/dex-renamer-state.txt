@@ -1,0 +1,4 @@
+#Wed Sep 12 19:42:52 MDT 2018
+base.0=/afs/ualberta.ca/home/r/x/rxu2/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/afs/ualberta.ca/home/r/x/rxu2/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
